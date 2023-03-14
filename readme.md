@@ -36,7 +36,5 @@ assert to_tree(source) == expected
 
 ## Run tests
 ``` bash
-    $ python3 -m venv venv
-    $ source venv/bin/activate
     $ pytest
    ```
